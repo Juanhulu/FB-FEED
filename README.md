@@ -16,4 +16,4 @@ FB-FEED,Gunakan Script Ini Untuk Membuat Postingan Ke Seluruh Grup Facebook Anda
     $ python3 Run.py
 
 
-# * Selamat Menggunakan *
+# Selamat Menggunakan
